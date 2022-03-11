@@ -41,11 +41,20 @@ A2 (in process)
 ## 💾 Code Example
 
 ```JavaSCript
-function multiply(a, b){
-return a * b
-};
+//Сounting the number of lucky tickets
 
-console.log(multiply(2,2));
+let result = 0;
+
+for (let i = 0; i <= 999999; i++) {
+    let arr = String(i).padStart(6, '0').split('');
+
+    let sumFirst = Number(arr[0]) + Number(arr[1]) + Number(arr[2])
+    let sumSecond = Number(arr[3]) + Number(arr[4]) + Number(arr[5])
+
+    if (sumFirst === sumSecond) result++;
+}
+
+console.log(result) // 55 252
 ```
 
 ## 👨‍💻 Experience
