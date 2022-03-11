@@ -1,15 +1,3 @@
-## 👨‍💻 Experience
-
-Lendings, Wordpress, etc... Project in process: cryptofound and indexes → https://github.com/SashaJozwiak/indx-1.00 (personal accounts with authorization via metamask and cryptocurrency transfer have been made). Мade with Bootstrap, Native JS, API Moralis.
-
-## 🎓 Education
-
-RS School, december 2021 — till now.
-Duolingo, Tongo — till now.
-
-## 📚 English
-
-A2 (in process)
 ![Photo: Alexander Ivanov](https://avatars.githubusercontent.com/u/61920568 "Alexander Ivanov")
 
 # Alexander Ivanov
