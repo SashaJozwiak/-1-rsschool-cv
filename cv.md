@@ -63,6 +63,7 @@ Lendings, Wordpress, etc... Project in process: cryptofound and indexes → http
 
 ## 🎓 Education
 
+Tver State Technical University
 RS School, december 2021 — till now.
 Duolingo, Tongo — till now.
 
