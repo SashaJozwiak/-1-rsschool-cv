@@ -1,0 +1,62 @@
+## 👨‍💻 Experience
+
+Lendings, Wordpress, etc... Project in process: cryptofound and indexes → https://github.com/SashaJozwiak/indx-1.00 (personal accounts with authorization via metamask and cryptocurrency transfer have been made). Мade with Bootstrap, Native JS, API Moralis.
+
+## 🎓 Education
+
+RS School, december 2021 — till now.
+Duolingo, Tongo — till now.
+
+## 📚 English
+
+A2 (in process)
+![Photo: Alexander Ivanov](https://avatars.githubusercontent.com/u/61920568 "Alexander Ivanov")
+
+# Alexander Ivanov
+
+###### Frontend developer (beginner)
+
+## 📞 Contacts
+
+- **Location:** Tver, Russia
+- **Phone:** _+7 926 620 48 01_
+- **Email:** wmdz88@gmail.com
+- **GitHub:** [SashaJozwiak](https://github.com/SashaJozwiak)
+
+## 📝 About me
+
+| Job                | Hobby           | Rest                  |
+| ------------------ | --------------- | --------------------- |
+| Customer service   | Webdev          | Literature            |
+| Quality management | Crypto, web 3.0 | Cinema                |
+| High management    | Investment      | Long distance running |
+
+## 🧩 Skills
+
+- HTML
+- CSS/SASS
+- Git, Figma
+- JavaScript (Basics)
+
+## 💾 Code Example
+
+```JavaSCript
+function multiply(a, b){
+return a * b
+};
+
+console.log(multiply(2,2));
+```
+
+## 👨‍💻 Experience
+
+Lendings, Wordpress, etc... Project in process: cryptofound and indexes → https://github.com/SashaJozwiak/indx-1.00 (personal accounts with authorization via metamask and cryptocurrency transfer have been made). Мade with Bootstrap, Native JS, API Moralis.
+
+## 🎓 Education
+
+RS School, december 2021 — till now.
+Duolingo, Tongo — till now.
+
+## 📚 English
+
+A2 (in process)
