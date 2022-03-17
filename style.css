@@ -120,9 +120,16 @@ header {
   border-radius: 7%;
 }
 
+.fio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
 img {
-  width: 260px;
-  height: 240px;
+  /* width: 400px;
+  height: 364px; */
+  object-fit: none;
   padding: 10px;
 
   border-radius: 50%;
