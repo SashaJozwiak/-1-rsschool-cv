@@ -7,7 +7,7 @@
 ## 📞 Contacts
 
 - **Location:** Tver, Russia
-- **Phone:** _+7 926 620 48 01_
+- **Telegram:** _Zwiak_
 - **Email:** wmdz88@gmail.com
 - **GitHub:** [SashaJozwiak](https://github.com/SashaJozwiak)
 
